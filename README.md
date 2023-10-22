@@ -1,2 +1,2 @@
-# digital-clock
- created to practice javascript
+# digital clock
+ I'm practicing JavaScript :)
